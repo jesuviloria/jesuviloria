@@ -50,11 +50,11 @@ const jesuviloria = {
 <code><img height="%{{icon_size}}%" src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png"></code>
 <br/>
 
-### You can find me 🌎:
+#### You can find me 🌎:
 
-- [<img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg">](https://www.instagram.com/jesuviloria_)
-- [<img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg">](https://x.com/jesuviloria_)
-- [<img height="20px" src="https://avatars.githubusercontent.com/u/1965106?s=200&v=4">](https://discordapp.com/users/455861780657209349)
+- [<img height="%{{icon_size}}%" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg">](https://www.instagram.com/jesuviloria_)
+- [<img height="%{{icon_size}}%" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg">](https://x.com/jesuviloria_)
+- [<img height="%{{icon_size}}%" src="https://avatars.githubusercontent.com/u/1965106?s=200&v=4">](https://discordapp.com/users/455861780657209349)
 
 | <a href="https://github.com/jesuviloria/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jesuviloria&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jesus's github stats" /></a> | <a href="https://github.com/jesuviloria/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesuviloria&layout=compact&theme=buefy&hide_border=true" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

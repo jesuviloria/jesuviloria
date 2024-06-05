@@ -1,10 +1,10 @@
-const fs = require("fs").promises;
+import { promises as fs } from "fs";
 /* const Parser = require("rss-parser");
 const parser = new Parser(); */
 import { PLACEHOLDERS } from "./constants.js";
 
 (async () => {
-  const markdownTemplate = await fs.readFile("./README.md.tpl", {
+  const markdownTemplate = await fs.readFile("./src/README.md.tpl", {
     encoding: "utf8",
   });
 

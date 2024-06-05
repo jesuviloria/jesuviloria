@@ -7,9 +7,18 @@
     "update-readme": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesuviloria/jesuviloria.git"
+  },
+  "keywords": [
+    "readme",
+    "github profile",
+    "github readme"
+  ],
+  "author": "Jesus Viloria <jesudvm12@gmail.com>",
   "license": "ISC",
+  "homepage": "https://github.com/jesuviloria/jesuviloria#readme",
   "dependencies": {
     "rss-parser": "^3.13.0"
   }

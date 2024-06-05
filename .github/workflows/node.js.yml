@@ -25,4 +25,4 @@ jobs:
         git config user.email jesudvm12@gmail.com
         git add README.md
         git commit -m "[bot] Update README with latest info"
-        git push origin main
+        git push https://${{ secrets.JESUVILORIA_SECRET }}@github.com/jesuviloria/jesuviloria.git

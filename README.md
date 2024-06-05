@@ -1,6 +1,6 @@
 ## Hi, I'm Jesus👋👨‍💻
 
-I'm a self-taught passionate BackEnd developer from Colombia 🇨🇴
+I'm a self-taught passionate BackEnd developer from Barranquilla, Colombia 🇨🇴
 
 #### About me in code
 

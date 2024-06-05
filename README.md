@@ -11,6 +11,7 @@ const jesuviloria = {
   passions: 'web development',
   code: [Javascript, Typescript, HTML, CSS, Java],
   tools: [Angular, Node, Nest, Spring],
+  skills: [job as a team, Creativity, Punctuality, Empathy]
 }
 ```
 

@@ -5,7 +5,7 @@ name: Node.js CI
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "*/2 * * * *"
   
 jobs:
   build:
@@ -18,7 +18,6 @@ jobs:
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
-    - uses: actions/checkout@v4
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v3
       with:
@@ -26,3 +25,10 @@ jobs:
         cache: 'npm'
     - run: npm install
     - run: npm run update-readme
+    - uses: actions/checkout@v4
+    - run: |
+          git config user.name jesuviloria
+          git config user.email jesudvm12@gmail.com
+          git add READMED.md
+          git commit -m "[bot] Update README with latest info"
+          git push origin main

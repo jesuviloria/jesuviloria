@@ -52,9 +52,9 @@ const jesuviloria = {
 
 ### You can find me 🌎:
 
-- [Instagram](https://www.instagram.com/jesuviloria_)
-- [X](https://x.com/jesuviloria_)
-- [Discord](https://discordapp.com/users/455861780657209349)
+- [<img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg">](https://www.instagram.com/jesuviloria_)
+- [<img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg">](https://x.com/jesuviloria_)
+- [<img height="20px" src="https://avatars.githubusercontent.com/u/1965106?s=200&v=4">](https://discordapp.com/users/455861780657209349)
 
 | <a href="https://github.com/jesuviloria/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jesuviloria&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jesus's github stats" /></a> | <a href="https://github.com/jesuviloria/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesuviloria&layout=compact&theme=buefy&hide_border=true" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

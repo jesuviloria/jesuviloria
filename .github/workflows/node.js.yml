@@ -20,9 +20,10 @@ jobs:
         node-version: '22'
     - run: npm install
     - run: npm run update-readme
+      env:
+        TOKEN: ${{ secrets.JESUVILORIA_SECRET }}
     - run: |
-        git config user.name jesuviloria
-        git config user.email jesudvm12@gmail.com
+        git remote set-url origin https://x-access-token:${TOKEN}@github.com/jesuviloria/jesuviloria.git
         git add README.md
         git commit -m "[bot] Update README with latest info"
         git push origin main

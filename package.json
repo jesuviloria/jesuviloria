@@ -4,7 +4,7 @@
   "description": "jesuviloria  README GitHub Profile",
   "main": "index.js",
   "scripts": {
-    "update-readme": "node index.js",
+    "update-readme": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
